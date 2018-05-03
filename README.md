@@ -16,8 +16,14 @@
 Total time needed: 3d (+1d) = 4d
 
 ## Sunday, May 27 2018 (Memorial Day)
-- 11:23am PDT: Delta SEA -> SLC: 2:24pm
-- 5:05pm MDT: Delta SLC -> CVG: 10:31pm EDT
+### 11am PDT
+- 11:23am PDT: Delta SEA -> SLC
+### 2pm MDT
+- 2:24pm PDT: Arrive at SLC Airport
+### 5pm MDT
+- 5:05pm MDT: Delta SLC -> CVG
+### 10:30pm EDT
+- 10:31pm EDT: Arrive at CVG
 
 ## Monday, May 28 2018 (Memorial Day)
 ## Tuesday, May 29 2018
@@ -26,7 +32,10 @@ Total time needed: 3d (+1d) = 4d
 ## Friday, June 1 2018
 ## Saturday, June 2 2018
 ## Sunday, June 3 2018
-- 3:27am EDT: Amtrak CIN -> WAS: 6:19PM
+### 3am EDT
+- 3:27am EDT: Amtrak CIN -> WAS
+### 6pm EDT
+- 6:19PM Arrive at WAS Central Station
 
 ## Monday, June 4 2018
 ## Tuesday, June 5 2018
@@ -34,6 +43,12 @@ Total time needed: 3d (+1d) = 4d
 ## Thursday, June 7 2018
 ## Friday, June 8 2018
 ## Saturday, June 9 2018
-- 4:46pm EDT: Delta DCA -> SLC: 7:25pm MDT
-- 8:30pm MDT: Delta SLC -> SEA: 9:38pm PDT
+### 4pm EDT
+- 4:46pm EDT: Delta DCA -> SLC
+### 7pm MDT
+- 7:25pm MDT: Arrive at SLC Airport
+### 8pm MDT
+- 8:30pm MDT: Delta SLC -> SEA
+### 9pm PDT
+- 9:38pm PDT: Arrive at SEA Airport
 
