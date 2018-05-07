@@ -1,4 +1,4 @@
-# Jenna and Lain East Coast Trip
+# Seattle, WA
 ## Sunday, May 27 2018 (Memorial Day)
 ### 11am PDT
 Departure @ ***SEA -> SLC***
@@ -20,20 +20,29 @@ Arrival @ ***CVG***
 - 10:30pm
 
 ### 11pm EDT
-TODO: Pickup rental car.
+Rental Car Pickup @ ***Alamo***
+- CVG International Airport
+- Rental Car Pickup Zone
 
-## Monday, May 28 2018 (Memorial Day)
+### 12am EDT (Monday)
 Check-in @ ***Microtel Inn and Suites***
 - 7490 Woodspoint Dr, Florence, KY 41042
 - (859) 488-6887
 
-## Tuesday, May 29 2018
-### TODO
+# Cincinnati, OH
+## Monday, May 28 2018 (Memorial Day)
+### 12pm
 Check-out @ ***Microtel Inn and Suites***
 
-### TODO
-Check-in @ ***TODO VRBO***
+### 1pm
+Check-in @ ***Sonesta ES Suites - Sharonville West***
+- 11689 Chester Rd, Cincinnati OH 45246
+- (513) 771-2525
 
+### 2pm
+Hang out with Jeremy
+
+## Tuesday, May 29 2018
 ## Wednesday, May 30 2018
 ## Thursday, May 31 2018
 ## Friday, June 1 2018
@@ -51,8 +60,11 @@ Arrival @ ***WAS***
 - Washington Central Station
 - 6:19pm
 
+# Washington, DC
 ## Monday, June 4 2018
 ## Tuesday, June 5 2018
+
+# Ocean City, MD
 ## Wednesday, June 6 2018
 ## Thursday, June 7 2018
 ## Friday, June 8 2018
@@ -76,17 +88,17 @@ Arrival @ ***SEA***
 # Notes
 ## Things we want to do
 ### In Cincinnati
-- Meet with Cat [1d]
+- Meet with Cat
    - Maybe other Musgroves if they are on site?
-- Meet with Bella [1d]
-- Meet with Mark [4h]
-- Meet with Cassie + Hodapp [4h]
-- Meet with Lain's Family [6h]
-- Go to Jungle Jim's [2h]
-- Go to LaRosa's [2h]
-- Go to Skyline Chili [2h]
-- Find Pollo a la Plancha somewhere [2h]
-- Visit Newport on the Levee [4h]
-
-Total time needed: 3d (+1d) = 4d
+- Meet with Bella
+- Meet with Mark
+- Hang out with Jeremy
+- Meet with Cassie + Hodapp
+- Meet with Lain's Family
+- Go to Jungle Jim's
+- Go to LaRosa's
+- Go to Skyline Chili
+- Frishes' Breakfast Bar
+- Find Pollo a la Plancha somewhere
+- Visit Newport on the Levee
 
