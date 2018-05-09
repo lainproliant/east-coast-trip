@@ -40,13 +40,17 @@ Check-in @ ***Sonesta ES Suites - Sharonville West***
 - (513) 771-2525
 
 ### 2pm
-Hang out with Jeremy
+Spend the day with Jeremy
 
 ## Tuesday, May 29 2018
 ## Wednesday, May 30 2018
 ## Thursday, May 31 2018
 ## Friday, June 1 2018
+Spend the day with Cassie (+ Hodapp [tentative])
+
 ## Saturday, June 2 2018
+Spend the day with Cat
+
 ## Sunday, June 3 2018
 ### 3am EDT
 Departure @ ***CIN -> WAS***
