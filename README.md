@@ -20,9 +20,9 @@ Arrival @ ***CVG***
 - 10:30pm
 
 ### 11pm EDT
-Rental Car Pickup @ ***Alamo***
+Rental Car Pick-up @ ***Alamo***
 - CVG International Airport
-- Rental Car Pickup Zone
+- Rental Car Pick-up Zone
 
 ### 12am EDT (Monday)
 Check-in @ ***Microtel Inn and Suites***
@@ -51,6 +51,9 @@ Spend the day with Cassie (+ Hodapp [tentative])
 ## Saturday, June 2 2018
 Spend the day with Cat
 
+## TODO
+Figure out rental car drop-off
+
 ## Sunday, June 3 2018
 ### 3am EDT
 Departure @ ***CIN -> WAS***
@@ -64,15 +67,46 @@ Arrival @ ***WAS***
 - Washington Central Station
 - 6:19pm
 
+### 7pm EDT
+Rental Car Pick-up @ ***Budget***
+- 1908 L Street NW, Washington DC 20036
+
+### 8pm EDT
+Check-in @ ***Courtyard by Marriot - Herndon/Reston***
+- 553 Herndon Pkwy, Herndon VA 20170
+- (855) 809-3511
+
 # Washington, DC
 ## Monday, June 4 2018
 ## Tuesday, June 5 2018
+### 12pm
+Check-out @ ***Courtyard by Marriot - Herndon/Reston***
+
+### 1pm
+Depart for ***Ocean City, MD***
+
+### 5pm
+Check-in @ ***Fenwick Inn***
+- 13801 Costal Highway, Ocean City MD 21842
+- (410) 250-1100
 
 # Ocean City, MD
 ## Wednesday, June 6 2018
 ## Thursday, June 7 2018
 ## Friday, June 8 2018
 ## Saturday, June 9 2018
+### 9am EDT
+Check-out @ ***Fenwick Inn***
+- Latest checkout @ 11am, checkout @ 9am to accomodate flight
+
+### 10am EDT
+Depart for ***DCA - Ronald Reagan Washingtion National Airport***
+
+### 1am EDT
+Drop-off Rental Car @ ***DCA - Ronald Reagan Washington National Airport***
+- Counter and car in terminal
+- Open 7:00am - Midnight
+
 ### 4pm EDT
 Departure @ ***DCA -> SLC***
 - 4:46pm
